@@ -1,3 +1,7 @@
+![make](https://img.shields.io/badge/make-4.3-brightgreen.svg)
+![C++](https://img.shields.io/badge/C++-11.4.0-blue.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)
 # Efficient (alpha, beta)-core computation in bipartite graphs
 
 ## Graph format
